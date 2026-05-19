@@ -113,9 +113,9 @@ Current Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rmehta26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rmehta26&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmehta26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmehta26&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -125,7 +125,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmehta26&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=Rmehta26&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -135,7 +135,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rmehta26&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rmehta26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -145,7 +145,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rmehta26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rmehta26&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -155,7 +155,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/rashmimehta23cse_45a5fd90ea649847?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/rashmimehta23cse_45a5fd90ea649847?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
@@ -165,8 +165,8 @@ Current Focus:
 
 <div align="center">
 
-| Platform | Profile |
-|----------|----------|
+| Platform | Username |
+|----------|-----------|
 | 🟦 LinkedIn | rashmi-mehta-48069729a |
 | 🟨 LeetCode | rashmimehta23cse_45a5fd90ea649847 |
 | 🟦 Codeforces | rashmimehta23cse_45a5fd90ea649847 |
@@ -203,12 +203,20 @@ Current Focus:
 
 ---
 
+# 👀 Profile Views
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Rmehta26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
